@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @rayanbellahsni<br>- 👀 I’m interested in becoming a Software Dev<br>- 👨‍💻 I’m currently learning Kotlin, Node and Typescript<br>- 📫 How to reach me: rayanbellahsni1@gmail.com<br><br>- 💻 Languages I am proficient in: Python, C/C++, HTML, CSS, Java, Javascript Lua, Perl, SQL<br><br>-👾 What I work with: Docker, MongoDB, Flask, Apache Turbine, PostgresSQL, Pandas, Wireshark, dapr, PyTorch, Anaconda<br><br><br>- ⚡ Fun fact: I love weightlifting!
+- 👋 Hi, I’m @rayanbellahsni<br>- 👀 I’m interested in becoming a Software Dev<br>- 👨‍💻 I’m currently learning Kotlin, Node and Typescript<br>- 📫 How to reach me: rayanbellahsni1@gmail.com<br><br>- 💻 Languages I am proficient in: Python, C/C++, HTML, CSS, Java, Javascript Lua, Perl, SQL<br><br>-👾 What I work with: Docker, MongoDB, Flask, Apache Turbine, PostgresSQL, Pandas, Wireshark, dapr, PyTorch, Anaconda<br><br><br>- ⚡ Fun fact:
+I love weightlifting!
+- Academic GITHUB: https://github.com/RayanBellahsni1
 
 
 ## 🌐 Socials:
